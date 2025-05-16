@@ -34,7 +34,7 @@ export default function NavBar(props) {
         <div className="flex items-center flex-shrink-0 rounded-br-xl rounded-tl-xl ">
           <img src={GameLogo} className="absolute w-28 h-9 rounded-tl-2xl rounded-br-2xl" alt="FireGameLogo"/>
           <h2 className='z-50 text-4xl font-black' style={{fontFamily:"Lato, sans-serif",cursor:"pointer"}} title="iGames Logo">
-            <span style={{color:"#EC7625"}}>i</span>
+            <span style={{color:"#EC7625"}}>My</span>
             <span style={{color:"#2580dd"}}>Games</span>
           </h2>
         </div>
